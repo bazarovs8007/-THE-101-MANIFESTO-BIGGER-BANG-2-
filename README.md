@@ -1,11 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&lines=Salom%2C+Men+Sayfiddin+Bazarov!;Backend%3A+Python+%7C+Django;Ma'lumotlar+Bazasi%3A+SQLite;Frontend%3A+HTML+%7C+CSS;101%25+Manifest+Muallifi!;51%25+Natijani+Kutmoqdaman..." alt="Typing Effect" />
-  </a>
-</h1>
-
----
-
 # 🛑 THE 101% MANIFESTO: BIGGER BANG 2
 
 > **"O'yladingmi — demak, u allaqachon sodir bo'ldi. Vaqt — bu 3D olamlarni birlashtiruvchi ko'prikdir."**
